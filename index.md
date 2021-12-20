@@ -2,5 +2,5 @@
 This page is not ready for publication.
 
 ### Youtube
-Visit The AI Club on Youtube: (https://youtube.com/c/theaiclubbyshailendrakadre)
+Visit [The AI Club on Youtube](https://youtube.com/c/theaiclubbyshailendrakadre)
 
